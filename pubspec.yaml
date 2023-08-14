@@ -2,6 +2,8 @@ name: svg_flutter
 description: An upgraded SVG Renderer and widget library for Flutter with error handling capability for Svg Pictures.
 repository: https://github.com/IchinoseBinit/svg_flutter
 issue_tracker: https://github.com/IchinoseBinit/svg_flutter/issues
+homepage: https://binitkoirala.com.np
+
 version: 0.0.1
 
 dependencies:
