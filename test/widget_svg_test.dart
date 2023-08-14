@@ -59,6 +59,7 @@ void main() {
     fakeRequest = FakeHttpClientRequest(fakeResponse);
     fakeHttpClient = FakeHttpClient(fakeRequest);
   });
+  
 
   testWidgets(
       'SvgPicture does not use a color filtering widget when no color specified',
